@@ -1,0 +1,352 @@
+ /* body{
+
+height: 6000px;
+
+}   */
+
+
+
+*{
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+nav{
+
+ background-image: url("blue_bg.png"); 
+ height: 450px;
+ width: 100%;
+ 
+}
+
+
+
+.navbar {
+
+height: 50px; 
+/* height: 400px; */
+/* width: 100%px; */
+/* background-image: url("blue_bg.png"); */
+display: flex; 
+justify-content: space-between; 
+} 
+
+.links a {
+  padding: 10px;  
+text-decoration: none;
+color: grey;
+
+}
+
+.links{
+margin-top: 20px;
+    margin-right: 660px;
+    font-size: 10px;
+}
+
+.link1{
+margin-right: 40px;
+margin-top: 20px;
+ 
+}
+
+.navbar img{
+
+    margin-left: 20px;
+}
+
+.butt2{
+
+    border: none;
+    color: grey;
+    background-color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 49px;
+
+}
+
+
+
+
+
+.photo3{
+position: relative;
+left: 560px;
+}
+
+.photo2{
+
+    position: absolute;
+z-index: 3;
+left: 650px;
+}
+
+.photo1{
+
+    position: absolute;
+    z-index: 4;
+    left: 50px;
+    top:350px;
+
+
+}
+
+.photo4{
+
+position: absolute;
+left: 600px;
+top: 310px;
+z-index: 5;
+opacity: 0.8;
+}
+
+.header  {
+
+    color: grey;
+  
+position: absolute;
+top: 200px;
+left: 200px;
+}
+
+.header h1{
+
+    font-size: 30px;
+}
+.header p{
+
+    font-size: 20px;
+}
+
+
+
+/* section */
+.divv33{
+
+margin-left: 100px;
+position: absolute;
+top: 450px;
+}
+
+.divv66{
+
+margin-left: 140px;
+position: relative;
+}
+
+
+
+
+.divv44{
+
+margin-left: 450px;
+position: absolute;
+top: 650px;
+}
+
+.divv77{
+
+position: relative;
+bottom: 80px;
+}
+
+
+/* .divv77 div{
+
+    display: flex;
+
+} */
+
+
+
+ .u77 {
+
+position: absolute;
+right: 50px;
+top: 100px;
+} 
+ 
+
+
+
+/* .divv88{
+
+position: absolute;
+top: 940px;
+left: 20px;
+
+} */
+
+.divv77 p{
+
+    position: absolute;
+top: 60px;
+left: 20px;
+}
+
+.divv99 {
+
+
+    position: absolute;
+  top: 30px;
+  left: 800px;
+}
+   
+/* .divv99 h5{
+
+
+    position: absolute;
+    right: 60px;
+}
+
+.divv99 p{
+
+
+    position: absolute;
+    right: 10px;
+} */
+
+
+.divv222{
+
+
+display: flex;
+justify-content: space-around;
+
+}
+
+div h5{
+
+margin-left: 100px;
+color: grey;
+}
+
+div p{
+margin-left: 100px;
+color: grey;
+}
+
+.divv400{
+height: 800px;
+width: 100%;
+ 
+}
+
+.divv555{
+
+
+    position: relative;
+
+}
+
+.divv888 {
+
+
+position: absolute;
+top: 1700px;
+left: 600px;
+}
+
+/* .divv987{
+height: 50px;
+width: 160px;
+background-color: rgba(11, 192, 14, 0.357);
+display: flex;
+/* justify-content: center; */
+/* } */
+
+
+.butt1{
+ background-color: rgb(247, 240, 238);
+  
+  width: 80px;
+  height: 30px; 
+  position: absolute;
+  top:1900px;
+  left: 100px;
+  border: none;
+  border-radius: 10px;
+
+}
+
+
+.butt1 a{
+
+    text-decoration: none;
+    font-size: 10px;
+
+
+}
+
+
+
+.butt3{
+
+    background-color: rgb(242, 240, 244);
+  
+    width: 80px;
+    height: 30px; 
+    position: absolute;
+    top:1900px;
+    left: 200px;
+    border: none;
+   border-radius: 10px;
+
+}
+
+.butt3 a{
+text-decoration: none;
+font-size: 10px;
+
+
+
+
+}
+
+.butt3 img{
+
+padding-right: 2px;
+
+
+}
+
+
+/* .ov{
+
+padding-right: 5px;
+
+} */
+
+a .llk{
+
+
+
+}
+
+
+.iconss{
+
+
+position: absolute;
+top: 1960px;
+left: 100px;
+}
+
+.linkk {
+
+position: absolute;
+top: 1990px;
+left: 100px;
+
+}
+
+.linkk a{
+color: white;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 5px;
+}
